@@ -1,0 +1,9 @@
+theme: minima
+title: "알고레터 AlgoLetter"
+description: "KRX·한국은행 ECOS·KIS 공개데이터 기반 퀀트 분석·알고리즘 트레이딩 교육 뉴스레터"
+lang: ko
+author:
+  name: "AlgoLetter / DailyStudio"
+  email: "dailystudiobiz@gmail.com"
+plugins:
+  - jekyll-feed
